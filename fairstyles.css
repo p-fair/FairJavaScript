@@ -110,7 +110,7 @@ input {
 }
 /* About Page Style */
 .bg {
-    background-image: url("/Users/solflutter/OneDrive/FairPortfolio/Image6.jpg");
+    background-image: url("Image6.jpg");
     height: 100%;
     background-position: top;
     background-repeat: no-repeat;
